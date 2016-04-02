@@ -11,10 +11,11 @@ See diagram flow chart diagram.
 
 Milestones for project:
 (Below are the are the deliverables for our project (with approximated % workload breakdown)
-1.  Create HITS on MTurk (15%)
 
-2.  Create website. (70%)
-      - Frontend: Bootstrap, JS
-      - Backend: Use MTurk API or another tool to link HITS on MTurk to frontend of website.
+1.  Create HITS on MTurk (15% = 3 points)
 
-3. Aggreagate/sort response data from MTurk. (15%)
+2.  Create website. (70% = 14 points)
+      - Frontend: Bootstrap, JS (5.5 points)
+      - Backend: Use MTurk API or another tool to link HITS on MTurk to frontend of website. (8.5 points)
+
+3. Aggreagate/sort response data from MTurk. (15% = 3 points)
