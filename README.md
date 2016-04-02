@@ -1,5 +1,8 @@
 # nets213-finalproj
 Final group project for NETS 213 (Crowdsourcing / Human Computation)
+Team: Lee Criso, Maddie Gelfand, Jonathan Sadeghi, Michael Fogel, Hannah Cutler
+
+- DELIVERABLES 1 -
 
 Mockups:
 See "mockups" folder for initial mockups.
