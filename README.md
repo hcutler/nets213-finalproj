@@ -21,4 +21,4 @@ Milestones for project:
       - Frontend: Bootstrap, JS (5.5 points)
       - Backend: Use MTurk API or another tool to link HITS on MTurk to frontend of website. (8.5 points)
 
-3. Aggreagate/sort response data from MTurk. (15% = 3 points)
+3. Aggregate/sort response data from MTurk. (15% = 3 points)
