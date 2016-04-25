@@ -1,1 +1,3 @@
 We bought a domain name for our website, doctorturk.co, and have three sections to the page. Code-wise, the relevant section is the submission. We have embedded a google form to submit questions, created through a Doctor Turk email address. Questions will be submitted to the google form and from there we will be manually creating hits asking for responses. Once we have responses, we create another hit ranking the responses and come out with one "best" response. The best response is then emailled to the person who asked the question, and is also uploaded to the "view results" section.
+All of the site files and code can be found in the dr_turk_site folder, here:
+https://github.com/hcutler/nets213-finalproj/tree/master/dr_turk_site
